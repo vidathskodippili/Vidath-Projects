@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/32178826/README.md)
 # Hi, I'm Vidath 👋
 
 Aspiring Cybersecurity Analyst completing a Bachelor of Cyber Security at Deakin University (expected Feb 2027). I build hands-on skills through Hack The Box labs, Wireshark traffic analysis, and a self-built home lab, and I bring two years of customer-facing experience that's sharpened my ability to spot anomalies and stay calm under pressure.
